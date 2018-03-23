@@ -1,0 +1,12 @@
+{
+  "name": "workflows",
+  "version": "0.0.1",
+  "description": "a project to showcase workflows",
+  "main": "index.js",
+ 
+  "repository": {
+    "type": "git",
+    "url": "?.git"
+  },
+  "author": "Priyanshu Nayan"
+}
